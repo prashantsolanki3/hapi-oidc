@@ -10,15 +10,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/JbIPS/hapi-oidc.git"
+		"url": "git://github.com/prashantsolanki3/hapi-oidc.git"
 	},
 	"files": [
 		"lib"
 	],
 	"bugs": {
-		"url": "https://github.com/JbIPS/hapi-oidc/issues"
+		"url": "https://github.com/prashantsolanki3/hapi-oidc/issues"
 	},
-	"homepage": "https://github.com/JbIPS/hapi-oidc",
+	"homepage": "https://github.com/prashantsolanki3/hapi-oidc",
 	"keywords": [
 		"openid",
 		"connect",
